@@ -24,17 +24,17 @@ Docker Hub是 Docker 提供的一项服务，用于与您的团队查找和共�
 | [镜像加速说明](https://docker.1panel.live/)                   | `https://docker.1panel.live`       |
 | [镜像使用说明](https://docker.wanpeng.top/)                  | `docker.wanpeng.top`              |
 | [镜像使用说明](https://doublezonline.cloud/)                 | `https://doublezonline.cloud`     |
-| ~~[Docker镜像加速站](https://dockerpull.com)~~               | `https://dockerpull.com`           |
-| ~~[镜像使用说明](https://docker.mrxn.net/)~~                 | `https://docker.mrxn.net`         |
-| ~~[镜像使用说明](https://docker.udayun.com/)~~               | `https://docker.udayun.com`         |
-| ~~[镜像使用说明](https://lynn520.xyz)~~                      | `https://lynn520.xyz`             |
-| ~~[镜像使用说明](https://ginger20240704.asia)~~              | `https://ginger20240704.asia`     |
-| ~~[镜像使用说明](https://docker.1panel.dev/)~~               | `https://docker.1panel.dev`       |
-| [DockerHub 镜像加速代理](https://docker.anyhub.us.kg/)       | `https://docker.anyhub.us.kg`     |
-| [DockerHub 镜像加速代理](https://hub.gog.email/)             | `https://hub.gog.email`           |
-| [Dockerhub镜像加速说明](https://docker.wget.at/)             | `https://docker.wget.at`          |
-| [镜像使用说明](https://docker.awsl9527.cn/)                  | `https://docker.awsl9527.cn`      |
-| [镜像使用说明](https://dislabaiot.xyz/)                      | `https://dislabaiot.xyz`          |
+| ~~[Docker镜像加速站](https://dockerpull.com)~~               | ~~https://dockerpull.com~~          |
+| ~~[镜像使用说明](https://docker.mrxn.net/)~~                 | ~~https://docker.mrxn.net~~         |
+| ~~[镜像使用说明](https://docker.udayun.com/)~~               | ~~https://docker.udayun.com~~         |
+| ~~[镜像使用说明](https://lynn520.xyz)~~                      | ~~https://lynn520.xyz~~            |
+| ~~[镜像使用说明](https://ginger20240704.asia)~~              | ~~https://ginger20240704.asia~~     |
+| ~~[镜像使用说明](https://docker.1panel.dev/)~~               | ~~https://docker.1panel.dev~~       |
+| [DockerHub 镜像加速代理](https://docker.anyhub.us.kg/)       | ~~https://docker.anyhub.us.kg~~     |
+| [DockerHub 镜像加速代理](https://hub.gog.email/)             | ~~https://hub.gog.email~~           |
+| [Dockerhub镜像加速说明](https://docker.wget.at/)             | ~~https://docker.wget.at~~          |
+| [镜像使用说明](https://docker.awsl9527.cn/)                  | ~~https://docker.awsl9527.cn~~      |
+| [镜像使用说明](https://dislabaiot.xyz/)                      | https://dislabaiot.xyz`          |
 | [Docker Proxy 镜像加速](https://dockerpull.com/)（[来源地址](https://linux.do/t/topic/114345)） | `https://dockerpull.com`          |
 | [Docker Hub Container Image Library](https://docker.fxxk.dedyn.io/) | `https://docker.fxxk.dedyn.io`    |
 | [docker-registry-mirrors](https://github.com/kubesre/docker-registry-mirrors): 支持 Docker Hub, GitHub, Google, k8s, Quay, Microsoft 等镜像仓库. | `dhub.kubesre.xyz`                |
@@ -59,9 +59,9 @@ sudo mkdir -p /etc/docker
 sudo tee /etc/docker/daemon.json <<EOF
 {
     "registry-mirrors": [
-        "https://dockerproxy.cn",
-        "https://dockerpull.com",
-        "https://docker.udayun.com"
+        "https://docker.xuanyuan.me",
+        "https://docker.1ms.run",
+        "https://dockerpull.pw"
     ]
 }
 EOF
