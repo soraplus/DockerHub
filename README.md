@@ -35,7 +35,7 @@ Docker Hub是 Docker 提供的一项服务，用于与您的团队查找和共�
 | [Dockerhub镜像加速说明](https://docker.wget.at/)             | ~~https://docker.wget.at~~          |
 | [镜像使用说明](https://docker.awsl9527.cn/)                  | ~~https://docker.awsl9527.cn~~      |
 | [镜像使用说明](https://dislabaiot.xyz/)                      | https://dislabaiot.xyz`          |
-| [Docker Proxy 镜像加速](https://dockerpull.com/)（[来源地址](https://linux.do/t/topic/114345)） | `https://dockerpull.com`          |
+| [Docker Proxy 镜像加速](https://dockerpull.com/)（[来源地址](https://linux.do/t/topic/114345)） | ~~https://dockerpull.com~~          |
 | [Docker Hub Container Image Library](https://docker.fxxk.dedyn.io/) | `https://docker.fxxk.dedyn.io`    |
 | [docker-registry-mirrors](https://github.com/kubesre/docker-registry-mirrors): 支持 Docker Hub, GitHub, Google, k8s, Quay, Microsoft 等镜像仓库. | `dhub.kubesre.xyz`                |
 | [AtomHub 可信镜像仓库平台 ](https://atomhub.openatom.cn/)（只包含基础镜像，共336个） | `https://atomhub.openatom.cn`     |
