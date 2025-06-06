@@ -1,4 +1,4 @@
-# DockerHub 国内加速镜像列表
+# 2025 DockerHub 国内镜像源加速镜像列表 更新6月1日，长期维护
 
 ## DockerHub是什么
 
@@ -16,19 +16,20 @@ Docker Hub是 Docker 提供的一项服务，用于与您的团队查找和共�
 
 此列表只收录无需限定条件的DockerHub镜像源，感谢这些公益服务者。
 
-**2024年10月18日 亲测可用**
+**2025年6月1日 亲测可用**
 
 | DockerHub镜像仓库                                            | 镜像加速器地址                    |
-| ------------------------------------------------------------ | --------------------------------- |
-| [镜像使用说明](https://dockerpull.com/)                       | `https://dockerpull.com`           |
+| ----------------------------------------------------------- | --------------------------------- |
 | [镜像使用说明](https://hub.rat.dev/)                         | `hub.rat.dev`                     |
+| [镜像加速说明](https://docker.1panel.live/)                   | `https://docker.1panel.dev`       |
 | [镜像使用说明](https://docker.wanpeng.top/)                  | `docker.wanpeng.top`              |
 | [镜像使用说明](https://doublezonline.cloud/)                 | `https://doublezonline.cloud`     |
-| [镜像使用说明](https://docker.mrxn.net/)                     | `https://docker.mrxn.net`         |
-| [镜像使用说明](https://docker.udayun.com/)                     | `https://docker.udayun.com`         |
-| [镜像使用说明](https://lynn520.xyz/)                         | `https://lynn520.xyz`             |
-| [镜像使用说明](https://ginger20240704.asia/)                 | `https://ginger20240704.asia`     |
-| [镜像加速说明](https://docker.1panel.dev/)                   | `https://docker.1panel.dev`       |
+| ~~[Docker镜像加速站](https://dockerpull.com)~~               | `https://dockerpull.com`           |
+| ~~[镜像使用说明](https://docker.mrxn.net/)~~                 | `https://docker.mrxn.net`         |
+| ~~[镜像使用说明](https://docker.udayun.com/)~~               | `https://docker.udayun.com`         |
+| ~~[镜像使用说明](https://lynn520.xyz)~~                      | `https://lynn520.xyz`             |
+| ~~[镜像使用说明](https://ginger20240704.asia)~~              | `https://ginger20240704.asia`     |
+| ~~[镜像使用说明](https://docker.1panel.dev/)~~               | `https://docker.1panel.dev`       |
 | [DockerHub 镜像加速代理](https://docker.anyhub.us.kg/)       | `https://docker.anyhub.us.kg`     |
 | [DockerHub 镜像加速代理](https://hub.gog.email/)             | `https://hub.gog.email`           |
 | [Dockerhub镜像加速说明](https://docker.wget.at/)             | `https://docker.wget.at`          |
@@ -40,7 +41,7 @@ Docker Hub是 Docker 提供的一项服务，用于与您的团队查找和共�
 | [AtomHub 可信镜像仓库平台 ](https://atomhub.openatom.cn/)（只包含基础镜像，共336个） | `https://atomhub.openatom.cn`     |
 | [DaoCloud 镜像站](https://github.com/DaoCloud/public-image-mirror) | `https://docker.m.daocloud.io`    |
 | 已失效DockerHub镜像仓库                                      |                                   |
-| ~~[Docker镜像加速站](https://hub.uuuadc.top/)~~（因流量太大，作者已关停） | ~~https://hub.uuuadc.top~~        |
+| [Docker镜像加速站](https://hub.uuuadc.top/)~~（因流量太大，作者已关停） | ~~https://hub.uuuadc.top~~        |
 | ~~[Docker镜像加速站](https://docker.ckyl.me/)~~              | ~~https://docker.ckyl.me~~        |
 | ~~[镜像使用说明](https://docker.hpcloud.cloud/)~~            | ~~https://docker.hpcloud.cloud~~  |
 |                                                              | ~~docker.1panel.live~~            |
